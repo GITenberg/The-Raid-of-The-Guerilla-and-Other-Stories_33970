@@ -1,0 +1,48 @@
+_repo: The-Raid-of-The-Guerilla-and-Other-Stories_33970
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dunton, W. Herbert
+    alias: Dunton, Herbert
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '7987'
+    url: http://www.gutenberg.org/2009/agents/7987
+  - agent_name: Schuyler, Remington
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '37260'
+    url: http://www.gutenberg.org/2009/agents/37260
+covers:
+- cover_type: archival
+  image_path: 33970-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33970'
+  lccn: '12015566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountain life -- Fiction'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcsh 'Tennessee -- Social life and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: The raid of the guerilla -- Who crosses Storm Mountain? -- The crucial
+  moment -- Una of the hill country -- The lost guidon -- Wolf's head -- His unquiet
+  ghost -- A Chilhowee lily -- The phantom of Bogue Holauba -- The Christmas miracle.
+title: The Raid of The Guerilla, and Other Stories
+url: http://www.gutenberg.org/ebooks/33970
